@@ -1,0 +1,251 @@
+{
+  "statusCode": "10000",
+  "status": 200,
+  "message": "",
+  "data": {
+    "record": [
+      {
+        "id": 43,
+        "updatedAt": "2024-07-07T13:13:10.612Z",
+        "title": "Next.js 14 App Router Localization with next-intl",
+        "thumbnail": {
+          "presignedUrl": "/static/images/b233c0e00e48f62ad128f3d7775dbf15?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=h2WkTpB4ESoyyOCFP5fVwKhOwI4%3D"
+        },
+        "tags": [
+          {
+            "id": 3,
+            "name": "ReactJS"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 42,
+        "updatedAt": "2024-04-17T15:07:26.424Z",
+        "title": "How to secure your API gateway",
+        "thumbnail": {
+          "presignedUrl": "/static/images/89b09dd5855b6cd934dc91f8df99a796?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=1%2FlL3Ftbl3rr%2Fm3KQgHo9q8hxug%3D"
+        },
+        "tags": [
+          {
+            "id": 4,
+            "name": "AWS CDK"
+          },
+          {
+            "id": 5,
+            "name": "API"
+          },
+          {
+            "id": 6,
+            "name": "Microservices"
+          },
+          {
+            "id": 7,
+            "name": "Design Pattern"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 41,
+        "updatedAt": "2024-04-13T13:35:54.749Z",
+        "title": "🚀 Using Bitwise Oprators to build a RBAC in Node.js 🚀",
+        "thumbnail": {
+          "presignedUrl": "/static/images/06695def1c7f99fd14c15f8a4663b550?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=HP7qcMEWGn5c2ycSlxO3HWJzChY%3D"
+        },
+        "tags": [
+          {
+            "id": 5,
+            "name": "API"
+          },
+          {
+            "id": 7,
+            "name": "Design Pattern"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 40,
+        "updatedAt": "2024-04-08T03:55:58.311Z",
+        "title": "How to create scroll animations with Next.js App",
+        "thumbnail": {
+          "presignedUrl": "/static/images/22d1f3405f98b1ca2388d12d9a3efd6c?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=EJvMqU%2FJVfWppeD91dVGs0NdDB4%3D"
+        },
+        "tags": [
+          {
+            "id": 3,
+            "name": "ReactJS"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 39,
+        "updatedAt": "2024-04-07T08:34:41.133Z",
+        "title": "Difference Between Stack and Queue",
+        "thumbnail": {
+          "presignedUrl": "/static/images/907cfc8e776e4bf200b8b734dc2f6c89?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=9gCWJLyK2EHFqZ4Un8bH%2F3I9H0s%3D"
+        },
+        "tags": [
+          {
+            "id": 9,
+            "name": "Data Structure"
+          },
+          {
+            "id": 10,
+            "name": "Linked List"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 38,
+        "updatedAt": "2024-04-07T07:37:18.258Z",
+        "title": "Data structure: Doubly Linked List",
+        "thumbnail": {
+          "presignedUrl": "/static/images/4d8a8b0b9a4abcf5fc05d240afacc3a3?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=shONBIwzRjLqsI%2B0v42s2upfIAs%3D"
+        },
+        "tags": [
+          {
+            "id": 9,
+            "name": "Data Structure"
+          },
+          {
+            "id": 10,
+            "name": "Linked List"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 37,
+        "updatedAt": "2024-04-07T07:35:05.348Z",
+        "title": "Data structure: Singly Linked List",
+        "thumbnail": {
+          "presignedUrl": "/static/images/8c00068764742252c844a492042c577a?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=iwSSEm7u24rU7Bu7POidjHt%2FtmM%3D"
+        },
+        "tags": [
+          {
+            "id": 9,
+            "name": "Data Structure"
+          },
+          {
+            "id": 10,
+            "name": "Linked List"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 36,
+        "updatedAt": "2024-04-06T08:14:51.696Z",
+        "title": "What are data structures?",
+        "thumbnail": {
+          "presignedUrl": "/static/images/4091c2ad3f8d3b0aca229b42b84e2d82?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=x2kwg7Bqyo2i830bFFaP%2FQg6Z4E%3D"
+        },
+        "tags": [
+          {
+            "id": 9,
+            "name": "Data Structure"
+          }
+        ],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      },
+      {
+        "id": 35,
+        "updatedAt": "2024-03-20T07:04:16.348Z",
+        "title": "Writing a Data Transformation Pipeline Using Go",
+        "thumbnail": {
+          "presignedUrl": "/static/images/2fd61bca05dd50059dae5245379ded6e?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825366&Signature=gxUg9H9wvpoEdzhfHVqOdp1V4NQ%3D"
+        },
+        "tags": [],
+        "author": {
+          "id": 1,
+          "username": "admin"
+        },
+        "reactions": {
+          "totalReactions": 0
+        },
+        "comments": {
+          "totalComments": 0
+        }
+      }
+    ],
+    "limit": 9,
+    "total": 42,
+    "page": 1
+  }
+}

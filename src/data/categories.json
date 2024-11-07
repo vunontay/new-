@@ -1,0 +1,60 @@
+{
+  "statusCode": "10000",
+  "status": 200,
+  "message": "",
+  "data": {
+    "record": [
+      {
+        "id": 7,
+        "name": "Data Structures",
+        "slug": "data-structures",
+        "thumbnail": {
+          "presignedUrl": "/static/images/815973e105e53e284049f22c16d5d88d?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825473&Signature=EavoUaRkIL4SCOhsIr4PZLMpnQo%3D"
+        }
+      },
+      {
+        "id": 6,
+        "name": "AI",
+        "slug": "ai",
+        "thumbnail": {
+          "presignedUrl": "/static/images/cf34bfdf6e357b5d4eebc5e53f0b6131?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825473&Signature=e3FLsndj68j6Dt07ganyCA2Rt5w%3D"
+        }
+      },
+      {
+        "id": 5,
+        "name": "TypeScript",
+        "slug": "typescript",
+        "thumbnail": {
+          "presignedUrl": "/static/images/487567b41c03f0ef35c0116a02782427?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825473&Signature=DaB%2FRDWFKDnjWQ%2FOZ12TiZeiR4k%3D"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Flutter",
+        "slug": "flutter",
+        "thumbnail": {
+          "presignedUrl": "/static/images/3a956ea65d8a41e900c87b239927eb93?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825473&Signature=mwIDYRdA8Yrecy7osJ6E7BovA4k%3D"
+        }
+      },
+      {
+        "id": 3,
+        "name": "AWS",
+        "slug": "aws",
+        "thumbnail": {
+          "presignedUrl": "/static/images/ce281657dee679574293dc378206be8d?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825473&Signature=49gTdURRPe%2B0tAFZ5UwyRuqZtb8%3D"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Front-end",
+        "slug": "fe",
+        "thumbnail": {
+          "presignedUrl": "/static/images/4c40b75c52e16424c7a8c223671d777d?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825473&Signature=Ts%2FDuBK%2FRzOSZ8CMIbTYL%2FskZBA%3D"
+        }
+      }
+    ],
+    "limit": 10,
+    "total": 6,
+    "page": 1
+  }
+}

@@ -1,0 +1,83 @@
+.header {
+  width: 100%;
+  background-color: #021826;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header__wrapper {
+  min-height: 112px;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* ------------------------------------------HEADER ICON---------------------------------------- */
+.header__icon {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.header__icon-logo {
+  width: 48px;
+  height: auto;
+}
+.header__icon-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 50px;
+  letter-spacing: 0.1px;
+  box-shadow: 8px 5px 5.1px 0px #00000040;
+}
+
+/* ------------------------------------------HEADER MENU---------------------------------------- */
+.header__menu-list {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+
+.header__menu-item {
+  text-transform: uppercase;
+  font-weight: 40;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 0.06px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.header__menu-icon {
+  width: 20px;
+  height: 20px;
+}
+
+/* ------------------------------------------HEADER SEARCH---------------------------------------- */
+.header__search {
+  min-width: 362px;
+}
+
+.header__search-icon {
+  width: 20px;
+  height: 20px;
+}
+
+/* ------------------------------------------HEADER SOCIAL---------------------------------------- */
+.header__social-list {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.header__social-item svg {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}

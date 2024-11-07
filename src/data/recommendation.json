@@ -1,0 +1,66 @@
+{
+  "statusCode": "10000",
+  "status": 200,
+  "message": "",
+  "data": {
+    "record": [
+      {
+        "id": 7,
+        "name": "Data Structures",
+        "slug": "data-structures",
+        "parentId": null,
+        "thumbnail": {
+          "presignedUrl": "/static/images/815973e105e53e284049f22c16d5d88d?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825518&Signature=hLkaZLY5gWnL%2BVGMsbGS9V4jRa0%3D"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Flutter",
+        "slug": "flutter",
+        "parentId": null,
+        "thumbnail": {
+          "presignedUrl": "/static/images/3a956ea65d8a41e900c87b239927eb93?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825518&Signature=uIult%2FTUgvxMc7PwGiSrlwfQi%2BM%3D"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Front-end",
+        "slug": "fe",
+        "parentId": null,
+        "thumbnail": {
+          "presignedUrl": "/static/images/4c40b75c52e16424c7a8c223671d777d?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825518&Signature=EjjZbrGXzGWFnraGX6yybPJ1hx4%3D"
+        }
+      },
+      {
+        "id": 3,
+        "name": "AWS",
+        "slug": "aws",
+        "parentId": null,
+        "thumbnail": {
+          "presignedUrl": "/static/images/ce281657dee679574293dc378206be8d?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825518&Signature=Ukv6qX70UelDKcmdHmcWeDa6aT8%3D"
+        }
+      },
+      {
+        "id": 5,
+        "name": "TypeScript",
+        "slug": "typescript",
+        "parentId": null,
+        "thumbnail": {
+          "presignedUrl": "/static/images/487567b41c03f0ef35c0116a02782427?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825518&Signature=TKegHRJ476%2BoT745eU5V32gel2Y%3D"
+        }
+      },
+      {
+        "id": 6,
+        "name": "AI",
+        "slug": "ai",
+        "parentId": null,
+        "thumbnail": {
+          "presignedUrl": "/static/images/cf34bfdf6e357b5d4eebc5e53f0b6131?AWSAccessKeyId=AKIA35KLLR2VHG7F25FA&Expires=1730825518&Signature=yxjxf2hdyHYWSPqe0Qo0J%2FMU6ws%3D"
+        }
+      }
+    ],
+    "limit": 10,
+    "total": 6,
+    "page": 1
+  }
+}

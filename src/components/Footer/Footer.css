@@ -1,0 +1,15 @@
+.footer {
+  padding: 10px;
+  background-color: #021826;
+  color: white;
+  text-align: start;
+  max-height: 211px;
+  height: 100%;
+  padding: 146px 200px 36px 200px;
+}
+.footer p {
+  border-top: 1px solid white;
+  padding-top: 20px;
+  padding-left: 30px;
+  font-size: 14px;
+}
