@@ -8,6 +8,8 @@
   transition: 0.2s ease-in;
   z-index: 1;
   padding: 2.5rem 1.25rem 0 1.25rem;
+  min-width: 398px;
+  min-height: 508px;
 }
 .card:hover {
   box-shadow: 0 0 1.25rem rgba(0, 0, 0, 0.1);

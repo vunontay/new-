@@ -5,7 +5,9 @@ import detailData from "../../data/detail.json";
 import { useEffect, useState } from "react";
 import { Button } from "../../components/button";
 import { useParams } from "react-router-dom";
-import CardList from "../../components/card-list";
+import Card from "../../components/Card";
+import { Swiper, SwiperSlide } from "swiper/react";
+
 function DetailPage() {
   const [tags, setTags] = useState([]);
   const [categories, setCategories] = useState([]);
@@ -29,7 +31,6 @@ function DetailPage() {
       <div className="detail-page">
         <h1 className="detail-page__title">{record?.title}</h1>
         <p className="detail-page__meta">
-          {" "}
           {record.author?.username} - ngày{" "}
           {new Date().toLocaleDateString("vi-VN")}
         </p>
@@ -73,13 +74,45 @@ function DetailPage() {
                   className="detail-page__tags-button"
                   variant="outline"
                 >
-                  {post.title}{" "}
+                  {post.title}
                 </Button>
               ))}
             </div>
           </div>
         </div>
-        <CardList />
+      </div>
+
+      {/* Swiper Slider for Cards */}
+
+      <div>
+        <div className="detail-list">
+          <Swiper
+            spaceBetween={40}
+            slidesPerView={3}
+            loop={true}
+            className="detail-list__wrapper"
+            // breakpoints={{
+            //   640: {
+            //     slidesPerView: 1,
+            //     spaceBetween: 10,
+            //   },
+            //   768: {
+            //     slidesPerView: 2,
+            //     spaceBetween: 10,
+            //   },
+            //   1024: {
+            //     slidesPerView: 3,
+            //     spaceBetween: 20,
+            //   },
+            // }}
+          >
+            {tags.map((card, index) => (
+              <SwiperSlide key={index}>
+                <Card {...card} />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </div>
       </div>
     </>
   );
